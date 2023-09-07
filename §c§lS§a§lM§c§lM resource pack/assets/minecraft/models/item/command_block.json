@@ -1,0 +1,18 @@
+{
+"parent": "minecraft:block/command_block",
+
+"overrides": [
+{"predicate": {"custom_model_data":1}, "model": "item/checkpoint"},
+{"predicate": {"custom_model_data":2}, "model": "item/checkpoint_acquired"},
+{"predicate": {"custom_model_data":3}, "model": "item/coin"},
+{"predicate": {"custom_model_data":4}, "model": "item/red_coin"},
+{"predicate": {"custom_model_data":5}, "model": "item/key"},
+{"predicate": {"custom_model_data":6}, "model": "item/door"},
+{"predicate": {"custom_model_data":7}, "model": "item/key_door"},
+{"predicate": {"custom_model_data":8}, "model": "item/key_door_unlocked"},
+{"predicate": {"custom_model_data":9}, "model": "item/p_door"},
+{"predicate": {"custom_model_data":10}, "model": "item/spawn"},
+{"predicate": {"custom_model_data":11}, "model": "item/orb"},
+{"predicate": {"custom_model_data":100}, "model": "item/rotation_tool"}
+]
+}

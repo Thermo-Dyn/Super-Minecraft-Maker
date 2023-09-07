@@ -1,0 +1,70 @@
+{
+  "main.finish": {
+    "sounds": [
+      {
+		"name": "troll:main/course_clear",
+		"stream": true
+      }
+    ]
+  },
+  "troll.slider": {
+    "sounds": [
+      {
+        "subtitle": "Trolled!!!! :)",
+		"name": "troll:music/troll/slider",
+		"stream": true
+      }
+    ]
+  },
+  "troll.kart": {
+    "sounds": [
+      {
+        "subtitle": "Trolled!!!! :)",
+		"name": "troll:music/troll/kart",
+		"stream": true
+      }
+    ]
+  },
+  "troll.gusty": {
+    "sounds": [
+      {
+        "subtitle": "Trolled!!!! :)",
+		"name": "troll:music/troll/gusty",
+		"stream": true
+      }
+    ]
+  },
+  "main.death": {
+    "sounds": [
+      {
+        "subtitle": "Trolled!!!! :)",
+		"name": "troll:main/death"
+      }
+    ]
+  },
+  "main.boing": {
+    "sounds": [
+      {
+        "subtitle": "Trolled!!!! :)",
+		"name": "troll:main/boing"
+      }
+    ]
+  },
+  "main.metal_pipe": {
+    "sounds": [
+      {
+        "subtitle": "Trolled!!!! :)",
+		"name": "troll:main/metal_pipe"
+      }
+    ]
+  },
+  "main.boowomp": {
+    "sounds": [
+      {
+        "subtitle": "Trolled!!!! :)",
+		"name": "troll:main/boowomp"
+      }
+    ]
+  }
+  
+}

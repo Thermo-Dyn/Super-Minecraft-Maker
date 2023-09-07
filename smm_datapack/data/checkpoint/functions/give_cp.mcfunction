@@ -1,0 +1,3 @@
+give @s command_block{BlockEntityTag:{auto:1b,Command: "function checkpoint:place_cp1"},CustomModelData:1,display:{Name:'[{"text":"Checkpont 1","italic":false,"color":"gold","bold":true}]'}} 1
+give @s command_block{BlockEntityTag:{auto:1b,Command: "function checkpoint:place_cp2"},CustomModelData:2,display:{Name:'[{"text":"Checkpont 2","italic":false,"color":"gold","bold":true}]'}} 1
+give @s command_block{BlockEntityTag:{auto:1b,Command: "function checkpoint:place_orb"},CustomModelData:11,display:{Name:'[{"text":"Magic Ball","italic":false,"color":"dark_green","bold":true}]'}} 1

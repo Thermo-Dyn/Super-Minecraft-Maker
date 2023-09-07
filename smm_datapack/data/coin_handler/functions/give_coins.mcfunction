@@ -1,0 +1,2 @@
+give @s command_block{BlockEntityTag:{auto:1b,Command: "function coin_handler:place_red_coin"},CustomModelData:4,display:{Name:'[{"text":"Red Coin","italic":false,"bold":true}]'}} 1
+give @s command_block{BlockEntityTag:{auto:1b,Command: "function coin_handler:place_key"},CustomModelData:5,display:{Name:'[{"text":"Key","italic":false,"bold":true}]'}} 1
