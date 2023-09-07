@@ -1,6 +1,7 @@
 # Super Minecraft Maker
 
 **Super Minecraft Maker**
+
 The **express** way to make a Minecraft map. Checkpoints, Red Coins, Key Deaths, this pack has most of it. Batteries not included.
 
 In this document I will explain how to use the datapack & resource pack, and my reasoning behind some seemingly counter-intuitive decisions.
