@@ -10,7 +10,9 @@ scoreboard objectives add RESETMEPLEASE trigger
 scoreboard players enable @a RESETMEPLEASE
 scoreboard objectives add max_red_coins dummy
 scoreboard objectives add music dummy
+scoreboard objectives add damage_taken dummy
 scoreboard players set @a sound 0
+kill @e[tag=max_red_coins]
 summon armor_stand 0 0 0 {Invisible:1b,Invulnerable:1b,NoGravity:1b,Tags:["max_red_coins"]}
 scoreboard players set @e[tag=max_red_coins] max_red_coins 8
 gamerule announceAdvancements false

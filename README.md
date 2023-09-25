@@ -41,6 +41,9 @@ To give yourself a prop, you have to use this command: `/give @s gold_ingot{Cust
 Why did I implement it in this way? I want to teach map-makers how to get better at making Minecraft maps.
 ### Sounds
 In a similar way, you just use `/tag % add x` where % = (press tab while looking at an entity, and pick the string of random characters), and x = any of the sounds listed in the book.
+# Finishing the pack
+You'll want to pack the resource pack into the save folder. To do that, just zip the resource pack (make sure its straight into the files, no extra folder) and call it "resources.zip".
+
 
 ------------
 Now that's all you need to know if you're making a basic level, without any entities or destruction, but what if you wanted to do more than just simple redstone?

@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/arrow",
-		"particle": "item/arrow"
+		"0": "item/pointer_arrow",
+		"particle": "item/pointer_arrow"
 	},
 	"elements": [
 		{
